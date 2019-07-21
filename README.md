@@ -31,14 +31,14 @@ Created basic reflex agent based on a variety of parameters. Improved agent beha
 
 Worked with Markov Decision Processes. Started with value iteration agent, then worked on changing noise and discount parameters to enact different policies. Built Q-Learning agent and an Epsilon Greedy agent. Also used reinforcement learning to approximate Q-Values.
 
-![P3 P1](https://github.com/YFateen/AI/tree/master/Photos/P3/P1.png)
+![P3 P1](https://github.com/YFateen/AI/blob/master/Photos/P3/P1.png)
 
-![P3 P2](https://github.com/YFateen/AI/tree/master/Photos/P3/P2.png)
+![P3 P2](https://github.com/YFateen/AI/blob/master/Photos/P3/P2.png)
 
-![P3 P3](https://github.com/YFateen/AI/tree/master/Photos/P3/P3.png)
+![P3 P3](https://github.com/YFateen/AI/blob/master/Photos/P3/P3.png)
 
-![P3 P4](https://github.com/YFateen/AI/tree/master/Photos/P3/P4.png)
+![P3 P4](https://github.com/YFateen/AI/blob/master/Photos/P3/P4.png)
 
-![P3 P5](https://github.com/YFateen/AI/tree/master/Photos/P3/P5.png)
+![P3 P5](https://github.com/YFateen/AI/blob/master/Photos/P3/P5.png)
 
-![P3 P6](https://github.com/YFateen/AI/tree/master/Photos/P3/P6.png)
+![P3 P6](https://github.com/YFateen/AI/blob/master/Photos/P3/P6.png)
