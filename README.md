@@ -35,8 +35,6 @@ Worked with Markov Decision Processes. Started with value iteration agent, then 
 
 ![P3 P2](https://github.com/YFateen/AI/blob/master/Photos/P3/P2.png)
 
-![P3 P3](https://github.com/YFateen/AI/blob/master/Photos/P3/P3.png)
-
 ![P3 P4](https://github.com/YFateen/AI/blob/master/Photos/P3/P4.png)
 
 ![P3 P5](https://github.com/YFateen/AI/blob/master/Photos/P3/P5.png)
