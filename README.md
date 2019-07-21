@@ -59,20 +59,20 @@ Implemented inference algorithms for Bayes Nets, specifically variable eliminati
 
 Updated belief distribution of ghost agents and future agent states based on sequential noise readings. Moved pac-man based on closest likely ghost location. I then used particle filtering to achieve the same result. Finally, implemented joint particle filtering algorithm with multiple reactive ghosts.
 
-![P5 P1] (https://github.com/YFateen/AI/blob/master/Photos/P5/P1.png)
+![P5 P1](https://github.com/YFateen/AI/blob/master/Photos/P5/P1.png)
 
-![P5 P2] (https://github.com/YFateen/AI/blob/master/Photos/P5/P2.png)
+![P5 P2](https://github.com/YFateen/AI/blob/master/Photos/P5/P2.png)
 
-![P5 P3] (https://github.com/YFateen/AI/blob/master/Photos/P5/P3.png)
+![P5 P3](https://github.com/YFateen/AI/blob/master/Photos/P5/P3.png)
 
-![P5 P4] (https://github.com/YFateen/AI/blob/master/Photos/P5/P4.png)
+![P5 P4](https://github.com/YFateen/AI/blob/master/Photos/P5/P4.png)
 
-![P5 P5] (https://github.com/YFateen/AI/blob/master/Photos/P5/P5.png)
+![P5 P5](https://github.com/YFateen/AI/blob/master/Photos/P5/P5.png)
 
-![P5 P6] (https://github.com/YFateen/AI/blob/master/Photos/P5/P6.png)
+![P5 P6](https://github.com/YFateen/AI/blob/master/Photos/P5/P6.png)
 
-![P5 P7] (https://github.com/YFateen/AI/blob/master/Photos/P5/P7.png)
+![P5 P7](https://github.com/YFateen/AI/blob/master/Photos/P5/P7.png)
 
-![P5 P8] (https://github.com/YFateen/AI/blob/master/Photos/P5/P8.png)
+![P5 P8](https://github.com/YFateen/AI/blob/master/Photos/P5/P8.png)
 
 
