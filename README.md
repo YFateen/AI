@@ -1,6 +1,6 @@
-# Artificial-Intelligence - Berkeley-CS188
+# Artificial-Intelligence 
 
-Learned about search problems (A*, CSP, minimax), reinforcement learning, bayes nets, hidden markov models, and machine learning.
+Applied concepts include search problems (A*, CSP, minimax), reinforcement learning, bayes nets, and hidden markov models.
 
 
 ## Project 1 Search
@@ -40,3 +40,9 @@ Worked with Markov Decision Processes. Started with value iteration agent, then 
 ![P3 P5](https://github.com/YFateen/AI/blob/master/Photos/P3/P5.png)
 
 ![P3 P6](https://github.com/YFateen/AI/blob/master/Photos/P3/P6.png)
+
+## Project 4 
+
+Implemented inference algorithms for Bayes Nets, specifically variable elimination and value-of-perfect-information computations, which reasons about the existence of invisible pellets and ghosts. The project includes constructing bayes nets, jointing factors, implementing variable elimination, normalization, marginal inference and value of perfect information.
+
+![P4 P1](https://github.com/YFateen/AI/blob/master/Photos/P4/P1.png)
