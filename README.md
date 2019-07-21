@@ -9,12 +9,12 @@ Implemented Depth First Search, Breadth First Search, Uniform Cost Search, and A
 
 ![P1 P1](https://github.com/YFateen/AI/blob/master/Photos/P1/P1.png)
 
-![UI V2](https://github.com/YFateen/AI/tree/master/Photos/P1/P2.png)
+![P1 P2](https://github.com/YFateen/AI/blob/master/Photos/P1/P2.png)
 
-![UI V2](https://github.com/YFateen/AI/tree/master/Photos/P1/P3.png)
+![P1 P3](https://github.com/YFateen/AI/blob/master/Photos/P1/P3.png)
 
-![UI V2](https://github.com/YFateen/AI/tree/master/Photos/P1/P4.png)
+![P1 P4](https://github.com/YFateen/AI/blob/master/Photos/P1/P4.png)
 
-![UI V2](https://github.com/YFateen/AI/tree/master/Photos/P1/P5.png)
+![P1 P5](https://github.com/YFateen/AI/blob/master/Photos/P1/P5.png)
 
-![UI V2](https://github.com/YFateen/AI/tree/master/Photos/P1/P6.png)
+![P1 P6](https://github.com/YFateen/AI/blob/master/Photos/P1/P6.png)
